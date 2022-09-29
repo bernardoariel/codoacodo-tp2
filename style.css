@@ -1,0 +1,20 @@
+body{
+    max-width: 100%;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.carousel-item p{
+    filter: brightness(1) !important;
+}
+
+.carousel-item img{
+    
+    filter: brightness(40%);
+    height: 800px;
+}
+
+#links{
+   
+    background-color: rgb(20, 56, 97)  ;
+}
